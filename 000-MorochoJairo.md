@@ -33,16 +33,27 @@ Cambiamos a la nueva rama creada y verificámos
 
 Agregamos los archivos 
 
+![](/00-img/agregar-cambios.PNG)
+
 >**Paso6**
 
 Subimos los archivos a nuestro repositorio
 
+![](/00-img/subir-archivo1.PNG)
+![](/00-img/subir-archivo2.PNG)
+
+
 >**Paso7**
+
 Hacemos un request 
+![](/00-img/request.PNG)
+
 
 >**Paso8**
 
 Borramos nuestra rama creada
+
+![](/00-img/borrar.PNG)
 
 >**Paso9**
 
